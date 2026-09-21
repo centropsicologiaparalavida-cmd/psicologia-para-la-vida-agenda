@@ -1,0 +1,21 @@
+{
+  "name": "Psicología para la Vida · Agenda",
+  "short_name": "Agenda PVL",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f2ef",
+  "theme_color": "#e88b3d",
+  "lang": "es",
+  "icons": [
+    {
+      "src": "icon-180.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "favicon-32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    }
+  ]
+}
