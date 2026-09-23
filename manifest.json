@@ -1,13 +1,13 @@
 {
-  "name": "Psicología para la Vida · Agenda profesional",
+  "name": "Psicología para la Vida · Agenda",
   "short_name": "Psicología para la Vida",
-  "lang": "es-PE",
+  "description": "Agenda profesional para pacientes, citas, sesiones, tareas, pagos y paquetes.",
   "start_url": "./",
-  "scope": "./",
   "display": "standalone",
-  "orientation": "portrait",
   "background_color": "#ffffff",
   "theme_color": "#e88b3d",
+  "orientation": "portrait",
+  "lang": "es-PE",
   "icons": [
     {"src":"icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
     {"src":"icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
